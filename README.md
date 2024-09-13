@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi👋, I'm Yogender </h1>
-<h2 align="center">SWE Intern - Scriptures Research And Devlopment </h2>
+<h2 align="center">SWE Intern - Scriptures Research And Development </h2>
 <h3 align="center">A passionate backend developer from Dehradun, India</h3>
 <br/>
 <h2> 🛠 My skills include ...</h2>
