@@ -75,4 +75,4 @@
 <h2>🌱Stats ...</h2>
 
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogenderkala-scripturedev&show_icons=true&locale=en" alt="yogenderkala-scripturedev" /></p>
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Yogenderkala-ScriptureDev&theme=nightowl&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="yogenderkala-scripturedev" /></p>
