@@ -73,6 +73,6 @@
   </a> 
 </p>
 <h2>🌱Stats ...</h2>
-
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Yogenderkala-ScriptureDev&theme=nightowl&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="yogenderkala-scripturedev" /></p>
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yogenderkala-ScriptureDev&theme=nightowl&border_radius=30&" alt="GitHub Streak" /></a>
+</p>
